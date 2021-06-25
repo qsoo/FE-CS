@@ -16,7 +16,7 @@
 
 ## CSR(Client Side Rendering)
 
-<img src="CSR vs SSR.assets/CSR.png">
+<img src="CSR_vs_SSR.assets/CSR.png">
 
 [이미지 출처](https://medium.com/@adamzerner/client-side-rendering-vs-server-side-rendering-a32d2cf3bfcc)
 
@@ -38,7 +38,7 @@ CSR에선 브라우저가 서버에 HTML과 JS 파일을 요청한 후 로드되
 
 ## SSR(Server Side Rendering)
 
-<img src="CSR vs SSR.assets/SSR.png">
+<img src="CSR_vs_SSR.assets/SSR.png">
 
 [이미지 출처](https://medium.com/@adamzerner/client-side-rendering-vs-server-side-rendering-a32d2cf3bfcc)
 
