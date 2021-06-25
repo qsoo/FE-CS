@@ -10,7 +10,7 @@
 
 ### 자바스크립트 엔진 동작 과정
 
-<img src="how_to_JS_engine_works.assets/1_자바스크립트엔진작동과정.png">
+<img src="how_the_JavaScript_engine_works.assets/1_자바스크립트엔진작동과정.png">
 
 <center>JS engine의 작동 과정</center>
 
