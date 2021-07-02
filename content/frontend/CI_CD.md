@@ -53,7 +53,7 @@ CI의 빌드 자동화, 유닛 및 통합 테스트 수행 후 유효한 코드�
 
 <br>
 
-### CI/CI tools
+### CI/C tools
 
 - Jenkins
 - Circle CI
